@@ -1,10 +1,11 @@
 # Mental-Workload-Estimation-Using-N-Back-Task
 
-Aim:
+##Aim:
 
 Conducting EEG analysis to identify neural signatures across cognitive load levels, from low-demand to high-intensity tasks.
 
-Working memory task details:
+##Working memory task details:
+
 The task consisted of total Nine blocks with 3 blocks of each 1back,2back and 3back 
 After each block there was a short 30 second break (lets call it 30s)
 And after every 3 blocks there was a 2 min break. (Lets call it 120s)
@@ -26,7 +27,7 @@ mkr5 = ['301'] #for start of one-back task
 mkr6 = ['302'] #for start of two-back task
 mkr7 = ['303'] #for start of three-back task
 ```
-Tasks:
+##Tasks:
 
 (Load means: 1 back, 2 back, 3 back)
 
@@ -37,7 +38,7 @@ Tasks:
 5. Check how that ERP is changing (across high load vs low load, and between pre vs post stim).
 
 
-Progress:
+##Progress:
 
 1. Preprocessed data by manually removing bad channels, applying Independent Component Analysis for eye artifact removal.
 2. Produced topomaps and average band power plots for delta through gamma bands for comparative frequency-band analysis.
