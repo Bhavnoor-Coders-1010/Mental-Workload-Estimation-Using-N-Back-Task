@@ -43,3 +43,12 @@ mkr7 = ['303'] #for start of three-back task
 1. Preprocessed data by manually removing bad channels, applying Independent Component Analysis for eye artifact removal.
 2. Produced topomaps and average band power plots for delta through gamma bands for comparative frequency-band analysis.
 3. Plotted spectrograms for different channels estimating the effect of breaks and different mental workloads on EEG signals.
+
+## Some Snippets from the files
+![image](https://github.com/user-attachments/assets/cd92fc1d-ca46-405d-b666-4438242e7dfe)
+Colab File - https://colab.research.google.com/drive/1QEtj7pzZCxl3hRHp8uHctWtLIf4EtKIk?usp=sharing
+![image](https://github.com/user-attachments/assets/7852138b-5a7c-4889-8a2a-a4632b3fefdd)
+Colab File - https://colab.research.google.com/drive/1kqngNlFxB1OBIdsUJ2F4ktW0xHPAHcUB?usp=sharing
+![image](https://github.com/user-attachments/assets/a5ca7d46-2171-4b69-abdd-1af8e5a97307)
+Colab File - https://colab.research.google.com/drive/1VjnTWCnOlSde0UgU-MywilEKspQ-oNCw?usp=sharing
+
